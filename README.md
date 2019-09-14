@@ -11,7 +11,7 @@
 ##### SS/SSR 账号（09-13 11:00 更新IP和端口），[手把手翻墙教程](https://github.com/gfw-breaker/guides/)（包含 Windows、iPhone、Mac、安卓）
 |||
 |-|-|
-|IP地址|<img src='resources/ip2.png'/>|
+|IP地址|<img src='resources/ip.png'/>|
 |端口号|`23459` |
 |密码|`dongtaiwang.com`|  
 |加密|`aes-256-cfb`|
