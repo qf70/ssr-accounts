@@ -1,26 +1,12 @@
 # SS/SSR 账号 
 
-##### 本项目已被五毛盯上，IP地址会被不定期封锁。在服务器不可用期间，请参考[手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)作为备用翻墙方案。
+##### 国庆监近，风声鹤唳。自16号以来，SS被大规模封禁，而且频率越来越高（GFW似乎可以检测SS协议流量特征）。您暂时可以使用如下方式访问被禁资源：
+
+##### 无界和自由门暂时还没被破解，请前往 [一键翻墙软件合集](https://github.com/gfw-breaker/nogfw/) 获取
 
 ##### 免翻墙看海外新闻 &nbsp; [禁闻聚合](https://github.com/gfw-breaker/banned-news/blob/master/README.md?a01)
 
-##### YouTube频道推荐  [《江峰时刻》](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w) - [《文昭谈古论今》](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA) - [《天亮时分》](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw)
-
-##### 禁书推荐  [《九评共产党》](https://github.com/gfw-breaker/9ping.md) - [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md) - [《共产主义的终极目的》](https://github.com/gfw-breaker/gczydzjmd.md)
-
-##### SS/SSR 账号（09-13 11:00 更新IP和端口），[手把手翻墙教程](https://github.com/gfw-breaker/guides/)（包含 Windows、iPhone、Mac、安卓）
-|||
-|-|-|
-|IP地址|<img src='resources/ip.png'/>|
-|端口号|`23459` |
-|密码|`dongtaiwang.com`|  
-|加密|`aes-256-cfb`|
-|协议(SSR) |`origin`|  
-|混淆(SSR) |`plain`|  
-
-##### 授人以鱼不如授人以渔：搭建 [免费Web代理](https://github.com/no-gfw/heroku-node-proxy#--end--)；免翻墙在GitHub上看禁闻 [禁闻聚合](https://github.com/gfw-breaker/banned-news/blob/master/README.md?a01)
-
-##### 无需Linux知识、无需远程登录服务器, 在VPS上一键搭建SS/SSR, 请参考 [在Vultr上自动部署Shadowsocks](https://gfw-breaker.win/vultr%e9%83%a8%e7%bd%b2ss/) 
+##### 国庆后网络封锁可能会有些许放松，届时我将重新更新SS账号
 
 <img src='http://gfw-breaker.win/ssr-accounts.md' width='0px' height='0px'/>
 
