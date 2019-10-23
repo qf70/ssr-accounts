@@ -6,7 +6,5 @@
 
 ##### 免翻墙看海外新闻 &nbsp; [禁闻聚合](https://github.com/gfw-breaker/banned-news/blob/master/README.md?a01)
 
-##### 国庆后网络封锁可能会有些许放松，届时我将重新更新SS账号
-
 <img src='http://gfw-breaker.win/ssr-accounts.md' width='0px' height='0px'/>
 
