@@ -1,7 +1,7 @@
 # SS/SSR 账号 
 
 ##### 扫描二维码，无需安全软件，免翻墙浏览全球精粹资源 - 头条、影视、音乐、书刊、直播
-<img src="http://gfw-breaker.win/videos/ogate.jpg" width=400px" height="300px"/>
+<img src="http://gfw-breaker.win/videos/ogate.jpg" width="400px" height="300px"/>
 
 ##### 无界、自由门、网门免费软件 &nbsp; 请前往 [一键翻墙软件合集](https://github.com/gfw-breaker/nogfw/blob/master/dl.md) 获取；
 
