@@ -23,7 +23,7 @@
 | 密码 | FaLunDaFaHao@513 |
 | 算法 | rc4 |
 | 协议 | origin |
-| 混淆 | plian |
+| 混淆 | plain |
 | 插件 | none |
 
 ##### 无界、自由门、网门免费软件 &nbsp; 请前往 [一键翻墙软件合集](https://github.com/gfw-breaker/nogfw/blob/master/README.md) 获取；
