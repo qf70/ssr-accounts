@@ -4,6 +4,7 @@
 <img src="http://gfw-breaker.win/videos/ogate.jpg" width="400px" height="240px"/>
 
 #### SSR 账号信息：
+##### （为节省流量，本机场已屏蔽一些色情网站与国内视频网站）
 
 | 连接参数 | 参数值 |
 |---|---|
