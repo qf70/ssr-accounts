@@ -8,13 +8,13 @@
 
 | 连接参数 | 参数值 |
 |---|---|
-| 服务器 | 167.99.24.58 |
-| 端口 | 443 |
-| 密码 | FaLunDaFaHao@513 |
-| 加密算法 | rc4-md5 |
-| 协议 | origin |
-| 混淆 | plain |
-| 插件 | none |
+| 服务器 | ```167.99.24.58``` |
+| 端口 | ```443``` |
+| 密码 | ```FaLunDaFaHao@513``` |
+| 加密算法 | ```rc4-md5``` |
+| 协议 | ```origin``` |
+| 混淆 | ```plain``` |
+| 插件 | ```none``` |
 
 ##### 无界、自由门、网门免费软件 &nbsp; 请前往 [一键翻墙软件合集](https://github.com/gfw-breaker/nogfw/blob/master/README.md) 获取；
 
