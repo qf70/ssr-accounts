@@ -11,12 +11,12 @@
 ##### SSR链接：
 ```ssr://MTQ1LjIzOS4yMzcuMTA6ODQ0MzpvcmlnaW46cmM0LW1kNTpwbGFpbjphSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMmRtZHkxaWNtVmhhMlZ5Lz9yZW1hcmtzPWFIUjBjSE02THk5bmFYUm9kV0l1WTI5dEwyZG1keTFpY21WaGEyVnk```
 
-![SSR QR](http://gfw-breaker.win/qr/ssr.png?0227)
+![SSR QR](http://gfw-breaker.win/qr/ssr.png?0227-)
 
 ##### SS链接（若SS客户端不支持rc4-md5加密协议，请改用SSR客户端）：
-```ss://cmM0LW1kNTpodHRwczovL2dpdGh1Yi5jb20vZ2Z3LWJyZWFrZXJAMTQ1LjIzOS4yMzcuMTA6ODQ0Mw``` 
+```ss://cmM0LW1kNTpodHRwczovL2dpdGh1Yi5jb20vZ2Z3LWJyZWFrZXJAMTQ1LjIzOS4yMzcuMTA6ODQ0Mw#github.com/gfw-breaker``` 
 
-![SS QR](http://gfw-breaker.win/qr/ss.png?0227)
+![SS QR](http://gfw-breaker.win/qr/ss.png?0227-)
 
 ---
 
