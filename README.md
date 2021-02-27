@@ -4,7 +4,7 @@
 <img src="http://gfw-breaker.win/videos/ogate.jpg" width="400px" height="240px"/>
 
 #### SSR 账号信息(2月26日更新)：
-##### 本机场由本人自费搭建，用于让网友们了解墙外资讯，为节省流量，已屏蔽一些色情网站与国内视频网站
+本机场由本人自费搭建，用于让网友们了解墙外资讯，为节省流量，已屏蔽一些色情网站与国内视频网站
 
 ##### SS链接（若SS客户端不支持rc4-md5加密协议，请改用SSR客户端）：
 ```ss://cmM0LW1kNTpodHRwczovL2dpdGh1Yi5jb20vZ2Z3LWJyZWFrZXJAMTQ1LjIzOS4yMzcuMTA6ODQ0Mw``` 
