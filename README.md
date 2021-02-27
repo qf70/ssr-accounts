@@ -18,6 +18,16 @@
 
 ![SS QR](http://gfw-breaker.win/qr/ss.png?0227-)
 
+| 连接参数 | 参数值 |
+|---|---|
+| 服务器 | ```145.239.237.10``` |
+| 端口 | ```8443``` |
+| 密码 | ```https://github.com/gfw-breaker``` |
+| 加密算法 | ```rc4-md5``` |
+| 协议 | ```origin``` |
+| 混淆 | ```plain``` |
+| 插件 | ```none``` |
+
 ---
 
 ##### 无界、自由门、网门免费软件 &nbsp; 请前往 [一键翻墙软件合集](https://github.com/gfw-breaker/nogfw/blob/master/README.md) 获取；
