@@ -6,15 +6,8 @@
 #### SSR 账号信息(2月26日更新)：
 ##### 本机场由本人自费搭建，用于让网友们了解墙外资讯，为节省流量，已屏蔽一些色情网站与国内视频网站
 
-| 连接参数 | 参数值 |
-|---|---|
-| 服务器 | ```145.239.237.10``` |
-| 端口 | ```8443``` |
-| 密码 | ```FaLunDaFaHao@513``` |
-| 加密算法 | ```rc4-md5``` |
-| 协议 | ```origin``` |
-| 混淆 | ```plain``` |
-| 插件 | ```none``` |
+SS链接： ```ss://cmM0LW1kNTpodHRwczovL2dpdGh1Yi5jb20vZ2Z3LWJyZWFrZXJAMTQ1LjIzOS4yMzcuMTA6ODQ0Mw``` （若SS客户端不支持rc4-md5加密协议，请改用SSR客户端）<br/>
+SSR链接： ```ssr://MTQ1LjIzOS4yMzcuMTA6ODQ0MzpvcmlnaW46cmM0LW1kNTpwbGFpbjphSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMmRtZHkxaWNtVmhhMlZ5Lz9yZW1hcmtzPTZMU201WS0zNXB1MDVwYXdJR2gwZEhCek9pOHZaMmwwYUhWaUxtTnZiUzluWm5jdFluSmxZV3RsY2k4```
 
 ##### 无界、自由门、网门免费软件 &nbsp; 请前往 [一键翻墙软件合集](https://github.com/gfw-breaker/nogfw/blob/master/README.md) 获取；
 
