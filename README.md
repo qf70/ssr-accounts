@@ -3,6 +3,8 @@
 ##### 扫描二维码，无需安全软件，免翻墙浏览全球精粹资源 - 头条、影视、音乐、书刊、直播
 <img src="http://gfw-breaker.win/videos/ogate.jpg" width="400px" height="240px"/>
 
+---
+
 #### SSR 账号信息(2月27日更新)：
 本机场由本人自费搭建，用于让网友们了解墙外资讯，为节省流量，已屏蔽一些色情网站与国内视频网站
 
@@ -15,6 +17,8 @@
 ```ss://cmM0LW1kNTpodHRwczovL2dpdGh1Yi5jb20vZ2Z3LWJyZWFrZXJAMTQ1LjIzOS4yMzcuMTA6ODQ0Mw``` 
 
 ![SS QR](http://gfw-breaker.win/qr/ss.png?0227)
+
+---
 
 ##### 无界、自由门、网门免费软件 &nbsp; 请前往 [一键翻墙软件合集](https://github.com/gfw-breaker/nogfw/blob/master/README.md) 获取；
 
