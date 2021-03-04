@@ -5,7 +5,7 @@
 
 ---
 
-## 由于中共开两会，GFW大批量屏蔽SS服务器，下面的账号已失效。我将尝试搭建v2ray并分享账号，敬请期待。安卓用户可以下载[HelloWorld](https://github.com/gfw-breaker/HelloWorld/)观看油管热门视频
+## 由于中共开两会，GFW大批量屏蔽SS服务器，下面的账号已失效。安卓用户可以下载[HelloWorld](https://github.com/gfw-breaker/HelloWorld/)观看油管热门视频
 
 #### SSR 账号信息(2月27日更新)：
 本机场由本人自费搭建，用于让网友们了解墙外资讯，为节省流量，已屏蔽一些色情网站与国内视频网站
