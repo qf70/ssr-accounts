@@ -5,30 +5,9 @@
 
 ---
 
-## 由于中共开两会，GFW大批量屏蔽SS服务器，下面的账号已失效。安卓用户可以下载[HelloWorld](https://github.com/gfw-breaker/HelloWorld/)观看油管热门视频
+##### [免翻墙观看油管热门视频](http://95.179.203.213:81/youtube.html)
 
-#### SSR 账号信息(2月27日更新)：
-本机场由本人自费搭建，用于让网友们了解墙外资讯，为节省流量，已屏蔽一些色情网站与国内视频网站
 
-##### SSR链接：
-```ssr://MTQ1LjIzOS4yMzcuMTA6ODQ0MzpvcmlnaW46cmM0LW1kNTpwbGFpbjphSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMmRtZHkxaWNtVmhhMlZ5Lz9yZW1hcmtzPWFIUjBjSE02THk5bmFYUm9kV0l1WTI5dEwyZG1keTFpY21WaGEyVnk```
-
-![SSR QR](http://gfw-breaker.win/qr/ssr.png?0227-)
-
-##### SS链接（若SS客户端不支持rc4-md5加密协议，请改用SSR客户端）：
-```ss://cmM0LW1kNTpodHRwczovL2dpdGh1Yi5jb20vZ2Z3LWJyZWFrZXJAMTQ1LjIzOS4yMzcuMTA6ODQ0Mw#github.com/gfw-breaker``` 
-
-![SS QR](http://gfw-breaker.win/qr/ss.png?0227-)
-
-| 连接参数 | SSR参数值 | SS参数值 |
-|---|---|---|
-| 服务器 | ```145.239.237.10``` | ```145.239.237.10``` |
-| 端口 | ```8443``` | ```8443``` |
-| 密码 | ```https://github.com/gfw-breaker``` | ```https://github.com/gfw-breaker``` |
-| 加密算法 | ```rc4-md5``` | ```rc4-md5``` |
-| 协议 | ```origin``` |  |
-| 混淆 | ```plain``` |  |
-| 插件 | ```none(不填)``` | ```none(不填)``` |
 
 ---
 
