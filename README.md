@@ -7,7 +7,11 @@
 
 ##### [免翻墙观看油管热门视频](http://95.179.203.213:81/youtube.html)
 
+---
 
+##### V2RAY 节点：
+
+<img src="http://gfw-breaker.win/videos/imgs/v2ray.png" width="400px"/>
 
 ---
 
