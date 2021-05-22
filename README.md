@@ -9,7 +9,7 @@
 
 ---
 
-##### SS太容易被GFW识别屏蔽，请朋友们改用V2RAY。使 V2Ray客户端扫描即可使用：
+##### SS太容易被GFW识别屏蔽，请朋友们改用V2RAY。用V2Ray客户端扫描即可使用（请将allowInsecure选项改为true）：
 
 <img src="http://gfw-breaker.win/videos/imgs/v2ray.png" width="400px"/>
 
