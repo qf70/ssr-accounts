@@ -1,4 +1,4 @@
-# SSR 账号 
+# V2Ray 账号 
 
 ##### 扫描二维码，无需安全软件，免翻墙浏览全球精粹资源 - 头条、影视、音乐、书刊、直播
 <img src="http://gfw-breaker.win/videos/ogate.jpg" width="400px" height="240px"/>
