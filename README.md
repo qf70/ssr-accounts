@@ -1,9 +1,6 @@
 # V2Ray 账号 
 
-##### 扫描二维码，无需安全软件，免翻墙浏览全球精粹资源 - 头条、影视、音乐、书刊、直播
-<img src="http://gfw-breaker.win/videos/ogate.jpg" width="400px" height="240px"/>
 
----
 
 ##### [免翻墙观看油管热门视频](http://104.238.172.221:81/youtube.html)
 
@@ -12,6 +9,11 @@
 ##### SS太容易被GFW识别屏蔽，请朋友们改用V2RAY。用V2Ray客户端扫描即可使用（请将allowInsecure选项改为true）：
 
 <img src="http://gfw-breaker.win/videos/imgs/v2ray.png" width="400px"/>
+
+---
+
+##### 扫描二维码，无需安全软件，免翻墙浏览全球精粹资源 - 头条、影视、音乐、书刊、直播
+<img src="http://gfw-breaker.win/videos/ogate.jpg" width="400px" height="240px"/>
 
 ---
 
