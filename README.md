@@ -1,4 +1,4 @@
-# V2Ray 免费账号 
+# V2Ray 免费账号（速度比SS块，且不易被封锁）
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-##### SS太容易被GFW识别屏蔽，请朋友们改用V2RAY。用V2Ray客户端扫描即可使用（请将allowInsecure选项改为true）：
+##### SS太容易被GFW识别屏蔽，请朋友们改用V2RAY。用V2Ray客户端扫描正文二维码（务必将allowInsecure选项改为true）即可使用：
 
 <img src="http://gfw-breaker.win/videos/imgs/v2ray.png" width="400px"/>
 
